@@ -9,7 +9,7 @@
     "byline": "he/him",
     "website": "https://www.brian-tan.me/",
     "websiteURL": "https://www.brian-tan.me/",
-    "about": "undergrad computer science & math",
+    "about": "vectoring @ faa. prev systems engineer. undergrad computer science & math. hobbyist programmer.",
     "status": {
       "text": null,
       "emoji": null,
@@ -33,27 +33,6 @@
   },
   "projects": [
     {
-      "id": "NOero7ntqitdtdM64QJx",
-      "year": "2024",
-      "heading": "The Legend of Zelda (NES 1986)",
-      "url": null,
-      "collaborators": [],
-      "description": "A classic 2D adventure game focusing on detailed collision detection and game mechanics. This project includes intricate enemy behaviors, item interactions, and room transitions.\\\nC#, .NET, MonoGame",
-      "attachments": [
-        {
-          "type": "image",
-          "width": 840,
-          "height": 525,
-          "url": "/content/media/The-Legend-of-Zelda-NES-1986.gif"
-        }
-      ],
-      "type": "project",
-      "title": "The Legend of Zelda (NES 1986)",
-      "company": ""
-    }
-  ],
-  "sideProjects": [
-    {
       "id": "BGi1NxO2wVaQU2hHiy3f",
       "year": "2025",
       "heading": "old.bsky",
@@ -74,72 +53,31 @@
           "url": "/content/media/oldbsky-2.png"
         }
       ],
-      "type": "sideProject",
+      "type": "project",
       "title": "old.bsky",
       "company": ""
     },
     {
-      "id": "ivZHJdNmrWErCflhD1lk",
+      "id": "NOero7ntqitdtdM64QJx",
       "year": "2024",
-      "heading": "subscriptions calendar",
-      "url": "https://subscriptionscal.vercel.app/",
+      "heading": "The Legend of Zelda (NES 1986)",
+      "url": null,
       "collaborators": [],
-      "description": "",
+      "description": "A classic 2D adventure game focusing on detailed collision detection and game mechanics. This project includes intricate enemy behaviors, item interactions, and room transitions.\\\nC#, .NET, MonoGame",
       "attachments": [
         {
           "type": "image",
-          "width": 3360,
-          "height": 2100,
-          "url": "/content/media/subscriptions-calendar-1.png"
-        },
-        {
-          "type": "image",
-          "width": 3360,
-          "height": 2100,
-          "url": "/content/media/subscriptions-calendar-2.png"
+          "width": 840,
+          "height": 525,
+          "url": "/content/media/The-Legend-of-Zelda-NES-1986.gif"
         }
       ],
-      "type": "sideProject",
-      "title": "subscriptions calendar",
-      "company": ""
-    },
-    {
-      "id": "84jSRB0GXpEO3XdJSMA2",
-      "year": "2020",
-      "heading": "little calculator",
-      "url": null,
-      "collaborators": [],
-      "description": "first functional program i wrote sitting on my bed in the middle of the night after graduating high school \\\npython",
-      "attachments": [],
-      "type": "sideProject",
-      "title": "little calculator",
-      "company": ""
-    },
-    {
-      "id": "UeLYsA8BODLmhBFA21UG",
-      "year": "2017",
-      "heading": "script",
-      "url": null,
-      "collaborators": [],
-      "description": "wrote an autohotkey script for the game counter-strike to walk around and gain experience points while i was away from keyboard\\~ \\\ncpp, ahk",
-      "attachments": [],
-      "type": "sideProject",
-      "title": "script",
-      "company": ""
-    },
-    {
-      "id": "waPPcp0OGcUPr1bgW99A",
-      "year": "2014",
-      "heading": "tumblr page",
-      "url": null,
-      "collaborators": [],
-      "description": "first light\\\nhtml, css",
-      "attachments": [],
-      "type": "sideProject",
-      "title": "tumblr page",
+      "type": "project",
+      "title": "The Legend of Zelda (NES 1986)",
       "company": ""
     }
   ],
+  "sideProjects": [],
   "exhibitions": [],
   "talks": [],
   "writing": [],
@@ -179,42 +117,6 @@
       "type": "award",
       "title": "Dean’s List",
       "presenter": "INTI"
-    },
-    {
-      "id": "oOAghX5KPwnyyWmucsCw",
-      "year": "2017",
-      "heading": "1st in u13 d1 community basketball league singapore from uwcsea",
-      "url": "https://www.singaporecbl.com/",
-      "collaborators": [],
-      "description": "stingers basketball\nphoenix basketball",
-      "attachments": [],
-      "type": "award",
-      "title": "1st in u13 d1 community basketball league singapore",
-      "presenter": "uwcsea"
-    },
-    {
-      "id": "yJL98UhXEYLLSEx4VrwB",
-      "year": "2016",
-      "heading": "1st in west zone basketball championships from singapore national school games",
-      "url": "https://nsg.moe.edu.sg/",
-      "collaborators": [],
-      "description": "nanyang basketball",
-      "attachments": [],
-      "type": "award",
-      "title": "1st in west zone basketball championships",
-      "presenter": "singapore national school games"
-    },
-    {
-      "id": "oCssye7Ov0XeZ0ajDdUU",
-      "year": "2016",
-      "heading": "2nd in intraschool 100m sprints from nanyang primary",
-      "url": null,
-      "collaborators": [],
-      "description": "went on to drop the baton in the 4x100m relay",
-      "attachments": [],
-      "type": "award",
-      "title": "2nd in intraschool 100m sprints",
-      "presenter": "nanyang primary"
     }
   ],
   "features": [],
@@ -329,7 +231,7 @@
   "education": [
     {
       "id": "mdSj87x2x3ohqAOOji7v",
-      "year": "2022 — Now",
+      "year": "2022 — 2025",
       "heading": "bs computer science engineering at ohio state university",
       "url": null,
       "collaborators": [],
@@ -469,30 +371,6 @@
       "name": "Projects",
       "items": [
         {
-          "id": "NOero7ntqitdtdM64QJx",
-          "year": "2024",
-          "heading": "The Legend of Zelda (NES 1986)",
-          "url": null,
-          "collaborators": [],
-          "description": "A classic 2D adventure game focusing on detailed collision detection and game mechanics. This project includes intricate enemy behaviors, item interactions, and room transitions.\\\nC#, .NET, MonoGame",
-          "attachments": [
-            {
-              "type": "image",
-              "width": 840,
-              "height": 525,
-              "url": "/content/media/The-Legend-of-Zelda-NES-1986.gif"
-            }
-          ],
-          "type": "project",
-          "title": "The Legend of Zelda (NES 1986)",
-          "company": ""
-        }
-      ]
-    },
-    {
-      "name": "Side Projects",
-      "items": [
-        {
           "id": "BGi1NxO2wVaQU2hHiy3f",
           "year": "2025",
           "heading": "old.bsky",
@@ -518,64 +396,22 @@
           "company": ""
         },
         {
-          "id": "ivZHJdNmrWErCflhD1lk",
+          "id": "NOero7ntqitdtdM64QJx",
           "year": "2024",
-          "heading": "subscriptions calendar",
-          "url": "https://subscriptionscal.vercel.app/",
+          "heading": "The Legend of Zelda (NES 1986)",
+          "url": null,
           "collaborators": [],
-          "description": "",
+          "description": "A classic 2D adventure game focusing on detailed collision detection and game mechanics. This project includes intricate enemy behaviors, item interactions, and room transitions.\\\nC#, .NET, MonoGame",
           "attachments": [
             {
               "type": "image",
-              "width": 3360,
-              "height": 2100,
-              "url": "/content/media/subscriptions-calendar-1.png"
-            },
-            {
-              "type": "image",
-              "width": 3360,
-              "height": 2100,
-              "url": "/content/media/subscriptions-calendar-2.png"
+              "width": 840,
+              "height": 525,
+              "url": "/content/media/The-Legend-of-Zelda-NES-1986.gif"
             }
           ],
-          "type": "sideProject",
-          "title": "subscriptions calendar",
-          "company": ""
-        },
-        {
-          "id": "84jSRB0GXpEO3XdJSMA2",
-          "year": "2020",
-          "heading": "little calculator",
-          "url": null,
-          "collaborators": [],
-          "description": "first functional program i wrote sitting on my bed in the middle of the night after graduating high school \\\npython",
-          "attachments": [],
-          "type": "sideProject",
-          "title": "little calculator",
-          "company": ""
-        },
-        {
-          "id": "UeLYsA8BODLmhBFA21UG",
-          "year": "2017",
-          "heading": "script",
-          "url": null,
-          "collaborators": [],
-          "description": "wrote an autohotkey script for the game counter-strike to walk around and gain experience points while i was away from keyboard\\~ \\\ncpp, ahk",
-          "attachments": [],
-          "type": "sideProject",
-          "title": "script",
-          "company": ""
-        },
-        {
-          "id": "waPPcp0OGcUPr1bgW99A",
-          "year": "2014",
-          "heading": "tumblr page",
-          "url": null,
-          "collaborators": [],
-          "description": "first light\\\nhtml, css",
-          "attachments": [],
-          "type": "sideProject",
-          "title": "tumblr page",
+          "type": "project",
+          "title": "The Legend of Zelda (NES 1986)",
           "company": ""
         }
       ]
@@ -585,7 +421,7 @@
       "items": [
         {
           "id": "mdSj87x2x3ohqAOOji7v",
-          "year": "2022 — Now",
+          "year": "2022 — 2025",
           "heading": "bs computer science engineering at ohio state university",
           "url": null,
           "collaborators": [],
@@ -678,32 +514,6 @@
           "title": null,
           "organization": "what a waste",
           "location": "selangor and kuala lumpur malaysia"
-        },
-        {
-          "id": "dLarnBITwRoBncc3wniu",
-          "year": "2017 — 2020",
-          "heading": "student initiated activities at bpghs",
-          "url": null,
-          "collaborators": [],
-          "description": null,
-          "attachments": [],
-          "type": "volunteering",
-          "title": "student initiated activities",
-          "organization": "bpghs",
-          "location": "singapore"
-        },
-        {
-          "id": "73oAzqEwkR3MXbDHe2bx",
-          "year": "2017 — 2020",
-          "heading": "operation orange at bpghs",
-          "url": "https://www.bpghs.moe.edu.sg/bpghs/news-n-events/chinese-new-year-celebration-and-operation-orange",
-          "collaborators": [],
-          "description": null,
-          "attachments": [],
-          "type": "volunteering",
-          "title": "operation orange",
-          "organization": "bpghs",
-          "location": "singapore"
         }
       ]
     },
@@ -745,42 +555,6 @@
           "type": "award",
           "title": "Dean’s List",
           "presenter": "INTI"
-        },
-        {
-          "id": "oOAghX5KPwnyyWmucsCw",
-          "year": "2017",
-          "heading": "1st in u13 d1 community basketball league singapore from uwcsea",
-          "url": "https://www.singaporecbl.com/",
-          "collaborators": [],
-          "description": "stingers basketball\nphoenix basketball",
-          "attachments": [],
-          "type": "award",
-          "title": "1st in u13 d1 community basketball league singapore",
-          "presenter": "uwcsea"
-        },
-        {
-          "id": "yJL98UhXEYLLSEx4VrwB",
-          "year": "2016",
-          "heading": "1st in west zone basketball championships from singapore national school games",
-          "url": "https://nsg.moe.edu.sg/",
-          "collaborators": [],
-          "description": "nanyang basketball",
-          "attachments": [],
-          "type": "award",
-          "title": "1st in west zone basketball championships",
-          "presenter": "singapore national school games"
-        },
-        {
-          "id": "oCssye7Ov0XeZ0ajDdUU",
-          "year": "2016",
-          "heading": "2nd in intraschool 100m sprints from nanyang primary",
-          "url": null,
-          "collaborators": [],
-          "description": "went on to drop the baton in the 4x100m relay",
-          "attachments": [],
-          "type": "award",
-          "title": "2nd in intraschool 100m sprints",
-          "presenter": "nanyang primary"
         }
       ]
     },
