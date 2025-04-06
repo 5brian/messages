@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-sites-export",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "next": "15.1.0",
+    "@fontsource-variable/inter": "latest",
+    "framer-motion": "11.11.10",
+    "react-scrollbooster": "0.1.2",
+    "readcv": "0.1.5",
+    "use-resize-observer": "9.1.0",
+    "uuid": "11.0.2"
+  }
+}

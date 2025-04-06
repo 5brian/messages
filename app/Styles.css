@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+}
+
+:root {
+  --background-color: #fff;
+  --text-color: #000;
+  --max-width: 720px;
+  --font-size: clamp(16px, 2.7dvw, 20px);
+  --sent-bg-color: #0B93F6;
+  --sent-text-color: #fff;
+  --received-bg-color: #f2f2f2;
+  --received-text-color: #000;
+  --buttonFg: #999;
+  --buttonBg: #f2f2f2;
+  --transparent-border: rgba(0, 0, 0, 0.1);
+  --transparentBg: rgba(255, 255, 255, 0.75);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #1e1e1e;
+    --text-color: #fff;
+    --sent-bg-color: #0B93F6;
+    --sent-text-color: #fff;
+    --received-bg-color: #3B3B3D;
+    --received-text-color: #fff;
+    --buttonFg: #888;
+    --buttonBg: #383838;
+    --transparent-border: rgba(255, 255, 255, 0.2);
+    --transparentBg: rgba(30, 30, 30, 0.75);
+  }
+}
+
+body {
+  font-family: 'Inter Variable', sans-serif;
+  font-size: var(--font-size);
+  line-height:  1.2;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+  text-size-adjust: none;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100dvh;
+}
+
+.messages {
+  width: 100%;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  flex: 1;
+  padding: clamp(16px, 3.3dvw, 24px);
+}
+
+.composer {
+  position: sticky;
+  bottom: 0;
+  z-index: 99;
+  width: 100%;
+}
+
+.composer::after {
+  position: absolute;
+  background-color: var(--transparentBg);
+  backdrop-filter: blur(10px) saturate(3);
+  -webkit-backdrop-filter: blur(10px) saturate(3);
+  z-index: -1;
+  inset: 0;
+  content: '';
+}
+
+.scrollableRegion {
+  display: flex;
+  overflow-x: scroll;
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+.scrollableRegion::-webkit-scrollbar {
+  display: none;
+}
+
+.prompts {
+  flex-wrap: nowrap;
+  display: flex;
+  column-gap: 8px;
+  padding: clamp(8px, 2.2dvw, 16px) clamp(16px, 3.3dvw, 24px);
+}
+
+.prompts:active {
+  cursor: -webkit-grabbing !important;
+}
+
+
